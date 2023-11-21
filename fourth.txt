@@ -4,3 +4,5 @@ set REPORTS60_PATH=D:\CER_HICHRI_SITE\LIBPLL;D:\CER_HICHRI_SITE\RDF
 set UI_ICON=D:\CER_HICHRI\ico
 C:\orant\BIN\RWBLD60.EXE  userid=gestint/gestint@DBCER
 
+modifsadok
+
